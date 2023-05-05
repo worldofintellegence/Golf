@@ -1,0 +1,2 @@
+Alias: golf
+Keystore Password :intelligence
